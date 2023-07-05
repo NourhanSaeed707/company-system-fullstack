@@ -19,6 +19,13 @@
 ## Employee Endpoints:
 - GET /api/employees/get-all: Get all employees
 - POST /api/employees/add: Add new employee
-- GET /api/employees/get/{id}: Get one employee
-- PUT /api/employees/edit/{id}: Update employee
-- DELETE  /api/employees/delete/{id}: Delete employee
+- GET /api/employees/get/{id}: Get one employee by ID
+- PUT /api/employees/edit/{id}: Update employee by ID
+- DELETE  /api/employees/delete/{id}: Delete employee by ID
+
+## Department Endpoints:
+- GET /api/department: Get all departments
+- GET /api/department/get/{id}: Get a department by ID
+- POST /api/department/add: Create a new department
+- PUT /api/department/edit/{id}: Update a department by ID
+- DELETE /api/department/delete/{id}: Delete a department by ID
