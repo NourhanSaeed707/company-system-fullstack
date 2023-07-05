@@ -17,3 +17,8 @@
 # API Endpoints:
 - The following are the API endpoints available in the application:
 ## Employee Endpoints:
+- GET /api/employees/get-all: Get all employees
+- POST /api/employees/add: Add new employee
+- GET /api/employees/get/{id}: Get one employee
+- PUT /api/employees/edit/{id}: Update employee
+- DELETE  /api/employees/delete/{id}: Delete employee
