@@ -8,3 +8,8 @@
 1. CRUD operations: The application allows users to perform CRUD operations on company data, including employee and department information.
 2. User authentication: The application features user authentication and authorization using Spring Security, with separate roles for admins and users.
 3. Responsive UI: The frontend of the application is built using ReactJS, providing a modern and responsive user interface.
+4. Java and Spring: The backend of the application is built using Java and Spring, providing a robust and scalable foundation for the application.
+5. MySQL: The application uses MySQL as its database for storing and retrieving data.
+6. Error handling: The application includes error handling to ensure that users receive helpful error messages if something goes wrong.
+7. Security: The application includes security measures to protect user data and prevent unauthorized access.
+8. Easy to use: The application is designed to be easy to use, with a simple and intuitive user interface.
