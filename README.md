@@ -34,3 +34,12 @@
 - POST /api/v2/auth/authenticate: Create and get a JWT token
 - POST: /api/v2/auth/register: Create a new user
 - GET /api/v2/auth/user: Get User or Admin
+
+# Technologies:
+1. Java 17: Java is the primary programming language used in the backend of the application.
+2. Spring: Spring is a popular Java framework used for developing enterprise-level applications. We are using various Spring modules in our project, including Spring Boot, Spring MVC, and Spring Security.
+3. MySQL: MySQL is an open-source relational database management system used for storing and retrieving data in our application.
+4. ReactJS: ReactJS is a popular JavaScript library used for building modern and responsive user interfaces in our application.
+5. Spring Security: Spring Security is a powerful and flexible framework used for user authentication and authorization in our application.
+6. JSON Web Tokens (JWT): JWT is a standard for securely transmitting information between parties as a JSON object. We are using JWT for secure authentication in our application.
+7. Maven: Maven is a build automation tool used for managing dependencies and building the project.
