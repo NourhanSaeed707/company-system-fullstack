@@ -6,3 +6,5 @@
 
 ## Features:
 1. CRUD operations: The application allows users to perform CRUD operations on company data, including employee and department information.
+2. User authentication: The application features user authentication and authorization using Spring Security, with separate roles for admins and users.
+3. Responsive UI: The frontend of the application is built using ReactJS, providing a modern and responsive user interface.
