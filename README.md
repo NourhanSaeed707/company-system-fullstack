@@ -43,3 +43,17 @@
 5. Spring Security: Spring Security is a powerful and flexible framework used for user authentication and authorization in our application.
 6. JSON Web Tokens (JWT): JWT is a standard for securely transmitting information between parties as a JSON object. We are using JWT for secure authentication in our application.
 7. Maven: Maven is a build automation tool used for managing dependencies and building the project.
+
+## Tools:
+- java 17
+- Nextjs
+- MySQL
+- mvn 3.1.0
+
+## Dependency:
+- Spring Web
+- Spring Security
+- Spring Data JPA
+- Spring Data JDBC
+- MySQL Driver
+- Lombok
