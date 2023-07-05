@@ -13,3 +13,7 @@
 6. Error handling: The application includes error handling to ensure that users receive helpful error messages if something goes wrong.
 7. Security: The application includes security measures to protect user data and prevent unauthorized access.
 8. Easy to use: The application is designed to be easy to use, with a simple and intuitive user interface.
+
+# API Endpoints:
+- The following are the API endpoints available in the application:
+## Employee Endpoints:
