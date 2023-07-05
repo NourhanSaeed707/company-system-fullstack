@@ -29,3 +29,8 @@
 - POST /api/department/add: Create a new department
 - PUT /api/department/edit/{id}: Update a department by ID
 - DELETE /api/department/delete/{id}: Delete a department by ID
+
+## Authentication Endpoints: 
+- POST /api/v2/auth/authenticate: Create and get a JWT token
+- POST: /api/v2/auth/register: Create a new user
+- GET /api/v2/auth/user: Get User or Admin
